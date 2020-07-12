@@ -29,4 +29,4 @@ For Windows users) Check out this link if you need help with determining if your
 (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
 
 # Instructions
-Follow the instructions in Continuous_Control-single-agent.ipynb or Continuous_Control_20_agents (as per your setup) to get started with training your own agent!
+Follow the instructions in report.html to get started with training your own agent!
